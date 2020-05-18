@@ -20,7 +20,7 @@ h6 {
 header.masthead {
     position: relative;
     background-color: #343a40;
-    background: url("images/Swirling\ Stars\ and\ Space\ Video\ Zoom\ Virtual\ Background.gif") no-repeat center center;
+    background: url("images/headercompublack.png") no-repeat center center;
     background-size: cover;
     padding-top: 8rem;
     padding-bottom: 8rem;
@@ -103,7 +103,7 @@ header.masthead h1 {
   .call-to-action {
     position: relative;
     background-color: #343a40;
-    background: url("images/bg-masthead.jpg") no-repeat center center;
+    background: url("images/CTAcompu.png") no-repeat center center;
     background-size: cover;
     padding-top: 7rem;
     padding-bottom: 7rem;
@@ -123,3 +123,4 @@ header.masthead h1 {
     padding-top: 4rem;
     padding-bottom: 4rem;
   }
+  
